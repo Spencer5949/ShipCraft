@@ -1,0 +1,15 @@
+[
+{
+  "modid": "shipcraft",
+  "name": "Ship Craft",
+  "description": "ShipCraft is a mod that adds a variety of different ships to the game.",
+  "version": "${version}",
+  "mcversion": "${GAME_VERSION}",
+  "url": "https://github.com/Spencer5949/Shipcraft",
+  "updateUrl": "https://github.com/Spencer5949/Shipcraft/releases",
+  "authorList": ["Spencer5949"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
