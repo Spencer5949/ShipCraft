@@ -1,6 +1,6 @@
 # Ship Craft - An immersive ship mod
 
-Here will be all the source code for **1.12.2 ShipCraft**
+Here will be all the source code for **1.12.2 ShipCraft**.
 **There will be new commits every week or so**
 
 ## Information
